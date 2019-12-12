@@ -1,0 +1,57 @@
+@echo off
+
+REM uncompress_rar.bat
+
+REM This uncompresses .rar archives in a folder specified by the user, extracts files to 
+the extracted folder and moves the processed archive to the completed folder
+
+setlocal
+
+REM Specify the folder to uncompress below:
+REM -------------------------------- Compressed file folder_----------------------------
+set dirA=C:\folder_to_uncompress
+REM ------------------------------------------------------------------------------------
+
+
+REM Specify the extracted files folder below:
+REM -------------------------------- Folder to extract to-------------------------------
+set dirE=C:\Extractedfiles\
+REM ------------------------------------------------------------------------------------
+
+
+REM Specify where to move processed archives below. This folder must exist:
+REM -------------------------------- Processed folder-----------------------------------
+set dirC=C:\Processed\
+REM ------------------------------------------------------------------------------------
+
+
+REM change to directory
+cd %dirA%
+
+REM Path to WinRAR executable in Program Files
+set path="C:\Program Files\WinRAR\";%path%
+
+
+echo.
+echo All files in %dirA% to be uncompressed
+echo.
+
+
+echo.
+
+FOR %%i IN (*.rar) do (
+unrar e "%%~ni.rar" "%dirE%"
+move "%%~ni.rar" "%dirC%"
+echo completed uncompressing "%%i" and moved archives or archive to "%dirC%"
+)
+goto eof
+
+:eof
+
+endlocal
+
+echo.
+echo "Task Completed"
+echo.
+
+@pause
