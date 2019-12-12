@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FreeFileSync XmlType="BATCH" XmlFormat="9">
+    <MainConfig>
+        <Comparison>
+            <Variant>TimeAndSize</Variant>
+            <Symlinks>Exclude</Symlinks>
+            <IgnoreTimeShift>1</IgnoreTimeShift>
+        </Comparison>
+        <SyncConfig>
+            <Variant>TwoWay</Variant>
+            <DetectMovedFiles>false</DetectMovedFiles>
+            <DeletionPolicy>RecycleBin</DeletionPolicy>
+            <VersioningFolder Style="Replace">E:\PortableApps\FreeFileSyncPortable\Data\deletions</VersioningFolder>
+        </SyncConfig>
+        <GlobalFilter>
+            <Include>
+                <Item>*</Item>
+            </Include>
+            <Exclude>
+                <Item>\System Volume Information\</Item>
+                <Item>\$Recycle.Bin\</Item>
+                <Item>\RECYCLER\</Item>
+                <Item>\RECYCLED\</Item>
+                <Item>*\desktop.ini</Item>
+                <Item>*\thumbs.db</Item>
+            </Exclude>
+            <TimeSpan Type="None">0</TimeSpan>
+            <SizeMin Unit="None">0</SizeMin>
+            <SizeMax Unit="None">0</SizeMax>
+        </GlobalFilter>
+        <FolderPairs>
+            <Pair>
+                <Left>C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Docs</Left>
+                <Right>E:\sync_[Shaughnessy] Docs</Right>
+            </Pair>
+            <Pair>
+                <Left>C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] TapSmart</Left>
+                <Right>E:\sync_[Shaughnessy] TapSmart</Right>
+            </Pair>
+            <Pair>
+                <Left>C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics</Left>
+                <Right>E:\sync_[Shaughnessy] Engr Ethics</Right>
+            </Pair>
+            <Pair>
+                <Left>C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP</Left>
+                <Right>E:\sync_[Shaughnessy] ECE 471 DSP</Right>
+            </Pair>
+            <Pair>
+                <Left>C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 422</Left>
+                <Right>E:\sync_[Shaughnessy] ECE 422</Right>
+            </Pair>
+            <Pair>
+                <Left>C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Employment</Left>
+                <Right>E:\sync_[Shaughnessy] Employment</Right>
+            </Pair>
+            <Pair>
+                <Left>C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Fall</Left>
+                <Right>E:\sync_[Shaughnessy] SCSU 2016 Fall</Right>
+            </Pair>
+            <Pair>
+                <Left>C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Spring</Left>
+                <Right>E:\sync_[Shaughnessy] SCSU 2016 Spring</Right>
+            </Pair>
+            <Pair>
+                <Left>C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2017 Spring</Left>
+                <Right>E:\sync_[Shaughnessy] SCSU 2017 Spring</Right>
+            </Pair>
+            <Pair>
+                <Left>C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU Docs</Left>
+                <Right>E:\sync_[Shaughnessy] SCSU Docs</Right>
+            </Pair>
+            <Pair>
+                <Left>C:\Sync_Samsung FlashDrive\sync_KHK</Left>
+                <Right>E:\sync_KHK</Right>
+            </Pair>
+            <Pair>
+                <Left>C:\Sync_Samsung FlashDrive\sync_Textbooks</Left>
+                <Right>E:\sync_Textbooks</Right>
+            </Pair>
+            <Pair>
+                <Left>C:\Sync_Samsung FlashDrive\sync_Vehicles</Left>
+                <Right>E:\sync_Vehicles</Right>
+            </Pair>
+        </FolderPairs>
+        <IgnoreErrors>false</IgnoreErrors>
+        <PostSyncCommand Condition="Completion"/>
+    </MainConfig>
+    <BatchConfig>
+        <ProgressDialog Minimized="true" AutoClose="false"/>
+        <ErrorDialog>Show</ErrorDialog>
+        <PostSyncAction>None</PostSyncAction>
+        <LogfileFolder Limit="-1">C:\Sync_Samsung FlashDrive</LogfileFolder>
+    </BatchConfig>
+</FreeFileSync>

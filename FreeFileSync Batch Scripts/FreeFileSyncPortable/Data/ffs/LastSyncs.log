@@ -1,0 +1,1116 @@
+__________________________________________________
+|4/23/2018 - BatchSamsung: Synchronization stopped
+|
+|    Items processed: 0
+|    Total time: 00:01:26
+|_________________________________________________
+
+[11:52:45 PM] Info: Starting comparison
+[11:52:56 PM] Warning: Database file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\sync.ffs_db" is incompatible. 
+                       Setting default synchronization directions: Old files will be overwritten with newer files.
+[11:54:01 PM] Warning: Database file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\sync.ffs_db" is incompatible. 
+                       Setting default synchronization directions: Old files will be overwritten with newer files.
+[11:54:10 PM] Info: Switching to FreeFileSync's main window
+[11:54:12 PM] Error: Synchronization stopped
+
+
+_________________________________________________________________
+|3/23/2018 - BatchSamsung: Synchronization completed successfully
+|
+|    Items processed: 37 (1.69 MB)
+|    Total time: 00:00:13
+|________________________________________________________________
+
+[2:58:23 PM] Info: Starting comparison
+[2:58:33 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Docs\
+                       E:\sync_[Shaughnessy] Docs\
+[2:58:33 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] TapSmart\
+                       E:\sync_[Shaughnessy] TapSmart\
+[2:58:33 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\
+                       E:\sync_[Shaughnessy] Engr Ethics\
+[2:58:33 PM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\2 -5 Year Goals.docx" to the recycle bin
+[2:58:33 PM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\2 -5 Year Goalsss.docx" to the recycle bin
+[2:58:33 PM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\3 - My Learning Style.docx" to the recycle bin
+[2:58:33 PM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\4 - Eisenhower Box.docx" to the recycle bin
+[2:58:33 PM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\5 - Behavior Change.docx" to the recycle bin
+[2:58:33 PM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\6 - Myers Briggs.docx" to the recycle bin
+[2:58:33 PM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\7 - Teamwork.docx" to the recycle bin
+[2:58:33 PM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Career Center Profile Ryan.png" to the recycle bin
+[2:58:33 PM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 5 Ryan Shaughnessy.docx" to the recycle bin
+[2:58:33 PM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 5 Ryan.docx" to the recycle bin
+[2:58:33 PM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Ryan Ethics HW 4.docx" to the recycle bin
+[2:58:33 PM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Essay 1 Mar 11th, World Class Student\UPLOAD THIS -- Puttin Stuff in the (Drop)box.pdf" to the recycle bin
+[2:58:33 PM] Info: Moving folder "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 3 Jan 31st" to the recycle bin
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\._4 - Eisenhower Box [Shaughnessy, Ryan].docx"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\._7 - Teamwork [Shaughnessy, Ryan].docx"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\._READ EngEthics-Ch6 Personal Growth.pdf"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\2 - 5 Year Goals [Shaughnessy, Ryan].docx"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\3 - My Learning Style [Shaughnessy, Ryan].docx"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\4 - Eisenhower Box [Shaughnessy, Ryan].docx"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\5 - Behavior Change [Shaughnessy, Ryan].docx"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\6 - Myers Briggs [Shaughnessy, Ryan].docx"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\6 - Myers Briggs2 [Shaughnessy, Ryan].docx"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\7 - Teamwork [Shaughnessy, Ryan].docx"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\GENG101Sec54Paper1_Inst_S18.pdf"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\~WRL2547.tmp"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\._Studying Engineering, Roadmap to Rewarding Career 4th Ed - OCR Preserve Content.pdf"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Essay 1 Mar 11th, World Class Student\._GENG101_WCS-PaperSample.pdf"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Essay 1 Mar 11th, World Class Student\GENG 101Sec54Paper1_Template_S18.docx"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Essay 1 Mar 11th, World Class Student\GENG 101_LandisAppendixA (ebook pp507).pdf"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Essay 1 Mar 11th, World Class Student\GENG101_WCS-PaperSample.pdf"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 0\Career Center Profile Ryan.png"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 0\UPLOAD THIS -- Puttin Stuff in the (Drop)box.pdf"
+[2:58:33 PM] Info: Moving file 
+                   "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 6 Feb 21st\Screenshot_20180208205516.png" to 
+                   "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 6 Feb 21st\Myers briggs Ryan is ESTP.png"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 8 Mar 28th\GENG101HW08Sec54_S18.pdf"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Syllabus\._GENG101Sec54Syllabus_S18_2.pdf"
+[2:58:33 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\
+                       E:\sync_[Shaughnessy] ECE 471 DSP\
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Homework\ECE471_HW_18Spring_6 1.pdf"
+[2:58:33 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Homework\ECE471_HW_18Spring_6.pdf"
+[2:58:33 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 422\
+                       E:\sync_[Shaughnessy] ECE 422\
+[2:58:33 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Employment\
+                       E:\sync_[Shaughnessy] Employment\
+[2:58:33 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Fall\
+                       E:\sync_[Shaughnessy] SCSU 2016 Fall\
+[2:58:33 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Spring\
+                       E:\sync_[Shaughnessy] SCSU 2016 Spring\
+[2:58:33 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2017 Spring\
+                       E:\sync_[Shaughnessy] SCSU 2017 Spring\
+[2:58:33 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU Docs\
+                       E:\sync_[Shaughnessy] SCSU Docs\
+[2:58:33 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_KHK\
+                       E:\sync_KHK\
+[2:58:33 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_Textbooks\
+                       E:\sync_Textbooks\
+[2:58:33 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_Vehicles\
+                       E:\sync_Vehicles\
+[2:58:37 PM] Info: Synchronization completed successfully
+
+
+_________________________________________________________________
+|3/15/2018 - BatchSamsung: Synchronization completed successfully
+|
+|    Items processed: 8 (624 MB)
+|    Total time: 00:00:55
+|________________________________________________________________
+
+[1:34:17 PM] Info: Starting comparison
+[1:34:25 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Docs\
+                       E:\sync_[Shaughnessy] Docs\
+[1:34:25 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] TapSmart\
+                       E:\sync_[Shaughnessy] TapSmart\
+[1:34:25 PM] Info: Creating file "E:\sync_[Shaughnessy] TapSmart\B_TapSmart Tkinter 2017.12.29.rar"
+[1:35:12 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\
+                       E:\sync_[Shaughnessy] Engr Ethics\
+[1:35:12 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\2 -5 Year Goals.docx"
+[1:35:12 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\2 -5 Year Goalsss.docx"
+[1:35:12 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\3 - My Learning Style.docx"
+[1:35:12 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\4 - Eisenhower Box.docx"
+[1:35:12 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\5 - Behavior Change.docx"
+[1:35:12 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\6 - Myers Briggs.docx"
+[1:35:12 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\7 - Teamwork.docx"
+[1:35:12 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\
+                       E:\sync_[Shaughnessy] ECE 471 DSP\
+[1:35:12 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 422\
+                       E:\sync_[Shaughnessy] ECE 422\
+[1:35:12 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Employment\
+                       E:\sync_[Shaughnessy] Employment\
+[1:35:12 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Fall\
+                       E:\sync_[Shaughnessy] SCSU 2016 Fall\
+[1:35:12 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Spring\
+                       E:\sync_[Shaughnessy] SCSU 2016 Spring\
+[1:35:12 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2017 Spring\
+                       E:\sync_[Shaughnessy] SCSU 2017 Spring\
+[1:35:12 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU Docs\
+                       E:\sync_[Shaughnessy] SCSU Docs\
+[1:35:12 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_KHK\
+                       E:\sync_KHK\
+[1:35:12 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_Textbooks\
+                       E:\sync_Textbooks\
+[1:35:12 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_Vehicles\
+                       E:\sync_Vehicles\
+[1:35:13 PM] Info: Synchronization completed successfully
+
+
+_________________________________________________________________
+|3/15/2018 - BatchSamsung: Synchronization completed successfully
+|
+|    Items processed: 5 (1.24 MB)
+|    Total time: 00:00:01
+|________________________________________________________________
+
+[1:09:38 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Docs\
+                       E:\sync_[Shaughnessy] Docs\
+[1:09:38 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] TapSmart\
+                       E:\sync_[Shaughnessy] TapSmart\
+[1:09:38 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\
+                       E:\sync_[Shaughnessy] Engr Ethics\
+[1:09:38 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\
+                       E:\sync_[Shaughnessy] ECE 471 DSP\
+[1:09:38 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 422\
+                       E:\sync_[Shaughnessy] ECE 422\
+[1:09:38 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Employment\
+                       E:\sync_[Shaughnessy] Employment\
+[1:09:38 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Fall\
+                       E:\sync_[Shaughnessy] SCSU 2016 Fall\
+[1:09:38 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Spring\
+                       E:\sync_[Shaughnessy] SCSU 2016 Spring\
+[1:09:38 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2017 Spring\
+                       E:\sync_[Shaughnessy] SCSU 2017 Spring\
+[1:09:38 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU Docs\
+                       E:\sync_[Shaughnessy] SCSU Docs\
+[1:09:38 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_KHK\
+                       E:\sync_KHK\
+[1:09:38 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_KHK\2018 Recycle Calendar 170915.pdf"
+[1:09:38 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_KHK\KHK Chores Calendar [2015].docx"
+[1:09:38 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_KHK\KHK Chores Calendar [2017].docx"
+[1:09:38 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_KHK\KHK IOTA - Tenants - Detailed Cleaning Duties by Floor [V.3 - Oct 17, 2013].docx"
+[1:09:38 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_KHK\KHK IOTA - Tenants - Notice of Cleaning Chore Fine.pptx"
+[1:09:38 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_Textbooks\
+                       E:\sync_Textbooks\
+[1:09:38 PM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_Vehicles\
+                       E:\sync_Vehicles\
+[1:09:39 PM] Info: Synchronization completed successfully
+
+
+_________________________________________________________________
+|3/15/2018 - BatchSamsung: Synchronization completed successfully
+|
+|    Items processed: 3 (3.16 MB)
+|    Total time: 00:00:02
+|________________________________________________________________
+
+[12:56:06 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Docs\
+                        E:\sync_[Shaughnessy] Docs\
+[12:56:06 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] TapSmart\
+                        E:\sync_[Shaughnessy] TapSmart\
+[12:56:06 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\
+                        E:\sync_[Shaughnessy] Engr Ethics\
+[12:56:06 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\
+                        E:\sync_[Shaughnessy] ECE 471 DSP\
+[12:56:06 PM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\~WRL0003.tmp" to the recycle bin
+[12:56:06 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\Doc1.docx"
+[12:56:06 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\DSP Cheat Sheet.docx"
+[12:56:06 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 422\
+                        E:\sync_[Shaughnessy] ECE 422\
+[12:56:06 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Employment\
+                        E:\sync_[Shaughnessy] Employment\
+[12:56:06 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Fall\
+                        E:\sync_[Shaughnessy] SCSU 2016 Fall\
+[12:56:06 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Spring\
+                        E:\sync_[Shaughnessy] SCSU 2016 Spring\
+[12:56:06 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2017 Spring\
+                        E:\sync_[Shaughnessy] SCSU 2017 Spring\
+[12:56:06 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU Docs\
+                        E:\sync_[Shaughnessy] SCSU Docs\
+[12:56:06 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_KHK\
+                        E:\sync_KHK\
+[12:56:06 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_Textbooks\
+                        E:\sync_Textbooks\
+[12:56:06 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_Vehicles\
+                        E:\sync_Vehicles\
+[12:56:07 PM] Info: Synchronization completed successfully
+
+
+__________________________________________________________________
+|3/15/2018 - BatchSamsung: Synchronization completed with warnings
+|
+|    Items processed: 91 (696 MB)
+|    Total time: 00:01:06
+|_________________________________________________________________
+
+[12:54:26 PM] Warning: The following folders are significantly different. Make sure you are matching the correct folders for synchronization.
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\ <-> 
+                       E:\sync_[Shaughnessy] Engr Ethics\
+[12:54:32 PM] Warning: The recycle bin is not available for the following folders. Files will be deleted permanently instead:
+                       E:\sync_[Shaughnessy] Engr Ethics\
+[12:54:34 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Docs\
+                        E:\sync_[Shaughnessy] Docs\
+[12:54:34 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] TapSmart\
+                        E:\sync_[Shaughnessy] TapSmart\
+[12:54:34 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\
+                        E:\sync_[Shaughnessy] Engr Ethics\
+[12:54:34 PM] Info: Deleting file "E:\sync_[Shaughnessy] Engr Ethics\HW 5 Ryan (2).docx"
+[12:54:34 PM] Info: Deleting file "E:\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Chapter5.pptx"
+[12:54:34 PM] Info: Deleting file "E:\sync_[Shaughnessy] Engr Ethics\HW 5 Feb 19th\GENG101HW05Sec54_S18.pdf"
+[12:54:34 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\HW 5 Ryan Shaughnessy.docx"
+[12:54:34 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Ch0 -- Prologue.pptx"
+[12:54:34 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Ch1 -- Keys to Success.pptx"
+[12:54:35 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Ch2 -- Engineering Profession.pptx"
+[12:54:35 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Ch3 -- Teaching, Learning Process.pptx"
+[12:54:36 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Ch4 -- How You are Taught, Preparation, Professors.pptx"
+[12:54:36 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Ch5 -- Organizing, Tests, Peers.pptx"
+[12:54:36 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Ch6 -- Personal Growth & Student Development.pptx"
+[12:54:38 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Ch7 -- Broadening Your Education.pptx"
+[12:54:38 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Ch8 -- Orientation to Engineering Education.pptx"
+[12:54:39 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Studying Engineering, Roadmap to Rewarding Career 4th Ed - Convert to Image.pdf"
+[12:55:06 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Studying Engineering, Roadmap to Rewarding Career 4th Ed - OCR Preserve Content.pdf"
+[12:55:15 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Class 11 Myers Griggs\Kathy Duffy - An MBTI approach to more effective team working FINAL.ppt"
+[12:55:18 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Class 11 Myers Griggs\myer-briggs-personality-types.ppt"
+[12:55:18 PM] Info: Moving file 
+                    "E:\sync_[Shaughnessy] Engr Ethics\UPLOAD THIS -- Puttin Stuff in the (Drop)box.pdf" to 
+                    "E:\sync_[Shaughnessy] Engr Ethics\Essay 1 Mar 11th, World Class Student\UPLOAD THIS -- Puttin Stuff in the (Drop)box.pdf"
+[12:55:18 PM] Info: Overwriting file "E:\sync_[Shaughnessy] Engr Ethics\HW 5 Feb 19th\HW 5 Modifying Behavior.pdf"
+[12:55:18 PM] Info: Overwriting file "E:\sync_[Shaughnessy] Engr Ethics\HW 7 Mar 8th\GENG101HW07Sec54_S18.pdf"
+[12:55:18 PM] Info: Creating folder "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides"
+[12:55:18 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 04 - Keys to Success (1).png"
+[12:55:18 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 04 - Keys to Success (10).png"
+[12:55:18 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 04 - Keys to Success (11).png"
+[12:55:18 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 04 - Keys to Success (12).png"
+[12:55:19 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 04 - Keys to Success (13).png"
+[12:55:19 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 04 - Keys to Success (2).png"
+[12:55:19 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 04 - Keys to Success (3).png"
+[12:55:19 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 04 - Keys to Success (4).png"
+[12:55:19 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 04 - Keys to Success (5).png"
+[12:55:19 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 04 - Keys to Success (6).png"
+[12:55:19 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 04 - Keys to Success (7).png"
+[12:55:19 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 04 - Keys to Success (8).png"
+[12:55:19 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 04 - Keys to Success (9).png"
+[12:55:19 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 06 - Teaching & Learing Process (1).png"
+[12:55:20 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 06 - Teaching & Learing Process (10).png"
+[12:55:20 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 06 - Teaching & Learing Process (11).png"
+[12:55:20 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 06 - Teaching & Learing Process (12).png"
+[12:55:20 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 06 - Teaching & Learing Process (2).png"
+[12:55:20 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 06 - Teaching & Learing Process (3).png"
+[12:55:20 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 06 - Teaching & Learing Process (4).png"
+[12:55:20 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 06 - Teaching & Learing Process (5).png"
+[12:55:20 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 06 - Teaching & Learing Process (6).png"
+[12:55:20 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 06 - Teaching & Learing Process (7).png"
+[12:55:21 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 06 - Teaching & Learing Process (8).png"
+[12:55:21 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 06 - Teaching & Learing Process (9).png"
+[12:55:21 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 11 - MBTI (1).png"
+[12:55:21 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 11 - MBTI (2).png"
+[12:55:21 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 14 - Lifelong Learning (01).png"
+[12:55:21 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 14 - Lifelong Learning (2).png"
+[12:55:21 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 14 - Lifelong Learning (3).png"
+[12:55:21 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 14 - Lifelong Learning (4).png"
+[12:55:21 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 14 - Lifelong Learning (5).png"
+[12:55:22 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 14 - Lifelong Learning (6).png"
+[12:55:22 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 14 - Lifelong Learning (7).png"
+[12:55:22 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 14 - Lifelong Learning (8).png"
+[12:55:22 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 14 - Lifelong Learning (9).png"
+[12:55:22 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 15 - ETS Discipline (1).png"
+[12:55:22 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 15 - ETS Discipline (2).png"
+[12:55:22 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Lecture Video Slides\Class 15 - ETS Discipline (3).png"
+[12:55:23 PM] Info: Creating folder "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions"
+[12:55:23 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28741318_10102581385157242_69281916_n.png"
+[12:55:23 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28741464_10102581404224032_722877643_n.png"
+[12:55:24 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28741693_10102581399453592_195273309_n.png"
+[12:55:24 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28828972_10102581403535412_310486222_n.png"
+[12:55:24 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28829291_10102581408355752_1416647897_n.png"
+[12:55:24 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28829871_10102581401180132_1831664320_n.png"
+[12:55:24 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28832450_10102581402796892_415842972_n.png"
+[12:55:24 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28832657_10102581407921622_809287844_n.png"
+[12:55:24 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28832820_10102581402282922_1477284625_n.png"
+[12:55:24 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28833089_10102581390326882_1274085847_n.png"
+[12:55:24 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28833246_10102581405326822_153724116_n.png"
+[12:55:24 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28833254_10102581392098332_994981388_n.png"
+[12:55:25 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28906611_10102581410017422_934721984_n.png"
+[12:55:25 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28906926_10102581398580342_1739582550_n.png"
+[12:55:25 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28906938_10102581401135222_1042931623_n.png"
+[12:55:25 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\28907902_10102581386759032_452691131_n.png"
+[12:55:25 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\29003790_10102581400142212_1246710423_n.png"
+[12:55:25 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\Screenshot_1.png"
+[12:55:25 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\Screenshot_2.png"
+[12:55:25 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\Screenshot_3.png"
+[12:55:25 PM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Quiz 1 Questions\symonette.makeassessmentwork.dweck_.pdf"
+[12:55:26 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\
+                        E:\sync_[Shaughnessy] ECE 471 DSP\
+[12:55:26 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\ECE471_18Spring_7.pdf"
+[12:55:26 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\ECE471_18Spring_8.pdf"
+[12:55:26 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Intro Signal Processing [Orfanidis 2010] - Copy.pdf"
+[12:55:27 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Intro Signal Processing [Orfanidis 2010][Cropped Full] Solution Manual.pdf"
+[12:55:27 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Intro Signal Processing [Orfanidis 2010][Cropped] Solution Manual.pdf"
+[12:55:28 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Intro Signal Processing [Orfanidis 2010][Cropped].pdf"
+[12:55:30 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Nigel hw5.pdf"
+[12:55:30 PM] Info: Overwriting file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Lectures\ECE471_18Spring_7.pdf"
+[12:55:30 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Lectures\ECE471_18Spring_8.pdf"
+[12:55:31 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 422\
+                        E:\sync_[Shaughnessy] ECE 422\
+[12:55:31 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Employment\
+                        E:\sync_[Shaughnessy] Employment\
+[12:55:31 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Fall\
+                        E:\sync_[Shaughnessy] SCSU 2016 Fall\
+[12:55:31 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Spring\
+                        E:\sync_[Shaughnessy] SCSU 2016 Spring\
+[12:55:31 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2017 Spring\
+                        E:\sync_[Shaughnessy] SCSU 2017 Spring\
+[12:55:31 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU Docs\
+                        E:\sync_[Shaughnessy] SCSU Docs\
+[12:55:31 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_KHK\
+                        E:\sync_KHK\
+[12:55:31 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_Textbooks\
+                        E:\sync_Textbooks\
+[12:55:31 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_Vehicles\
+                        E:\sync_Vehicles\
+[12:55:31 PM] Warning: Synchronization completed with warnings
+
+
+__________________________________________________
+|3/15/2018 - BatchSamsung: Synchronization stopped
+|
+|    Items processed: 0
+|    Items remaining: 93 (698 MB)
+|    Total time: 00:00:36
+|_________________________________________________
+
+[12:50:16 PM] Info: Starting comparison
+[12:50:38 PM] Warning: The following items have unresolved conflicts and will not be synchronized:
+                       "DSP Cheat Sheets\Doc1.docx": Both sides have changed since last synchronization.
+[12:50:47 PM] Info: Switching to FreeFileSync's main window
+[12:50:52 PM] Error: Synchronization stopped
+
+
+_________________________________________________________________
+|2/28/2018 - BatchSamsung: Synchronization completed successfully
+|
+|    Items processed: 78 (301 MB)
+|    Total time: 00:00:12
+|________________________________________________________________
+
+[7:12:10 AM] Info: Starting comparison
+[7:12:18 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Docs\
+                       E:\sync_[Shaughnessy] Docs\
+[7:12:18 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Docs\IMG_3722.JPG"
+[7:12:18 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] TapSmart\
+                       E:\sync_[Shaughnessy] TapSmart\
+[7:12:18 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\
+                       E:\sync_[Shaughnessy] Engr Ethics\
+[7:12:18 AM] Info: Creating folder "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Class 04 Keys to Success"
+[7:12:18 AM] Info: Moving file 
+                   "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Class 4 Keys to Success\ASEE_2012_Attributes_of_a_Global_Engineer.pdf" to 
+                   "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Class 04 Keys to Success\ASEE_2012_Attributes_of_a_Global_Engineer.pdf"
+[7:12:18 AM] Info: Moving file 
+                   "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Class 4 Keys to Success\symonette.makeassessmentwork.dweck_.pdf" to 
+                   "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Class 04 Keys to Success\symonette.makeassessmentwork.dweck_.pdf"
+[7:12:18 AM] Info: Moving file 
+                   "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Class 4 Keys to Success\thecommondenominatorofsuccess-albertengray.pdf" to 
+                   "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Class 04 Keys to Success\thecommondenominatorofsuccess-albertengray.pdf"
+[7:12:18 AM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Chapter5.pptx" to the recycle bin
+[7:12:18 AM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\GENG101 Scoring Rubrics Sec54_S18.pdf" to the recycle bin
+[7:12:18 AM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\GENG101 Syllabus S18.pdf" to the recycle bin
+[7:12:18 AM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\GENG101HW00Sec54_S18.pdf" to the recycle bin
+[7:12:18 AM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\GENG101ScoringRubricsSec54_S18.pdf" to the recycle bin
+[7:12:18 AM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\GENG101Sec54Syllabus_S18_2.pdf" to the recycle bin
+[7:12:18 AM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Landis Book Chapter 2.URL" to the recycle bin
+[7:12:18 AM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Landis Book PowerPoint Slides.URL" to the recycle bin
+[7:12:18 AM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Landis Book Resources.URL" to the recycle bin
+[7:12:18 AM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Landis Book TOC.pdf" to the recycle bin
+[7:12:18 AM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Studying Engineering, Roadmap to Rewarding Career 4th Ed..pdf" to the recycle bin
+[7:12:18 AM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Studying Engineering, Roadmap to Rewarding Career 4th Ed.pdf" to the recycle bin
+[7:12:18 AM] Info: Moving folder "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Class 4 Keys to Success" to the recycle bin
+[7:12:18 AM] Info: Moving folder "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 7 Feb 28th" to the recycle bin
+[7:12:18 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Career Center Profile Ryan.png"
+[7:12:18 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 5 Ryan (2).docx"
+[7:12:18 AM] Info: Moving file 
+                   "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\EngEthics-Ch6 Personal Growth.pdf" to 
+                   "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\READ EngEthics-Ch6 Personal Growth.pdf"
+[7:12:18 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\READ thecommondenominatorofsuccess-albertengray.pdf"
+[7:12:18 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\UPLOAD THIS -- Puttin Stuff in the (Drop)box.pdf"
+[7:12:18 AM] Info: Creating folder "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook"
+[7:12:18 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Chapter5.pptx"
+[7:12:18 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Landis Book Chapter 2.URL"
+[7:12:18 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Landis Book PowerPoint Slides.URL"
+[7:12:18 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Landis Book Resources.URL"
+[7:12:18 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Landis Book TOC.pdf"
+[7:12:18 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Studying Engineering, Roadmap to Rewarding Career 4th Ed..pdf"
+[7:12:19 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\-- Landis Textbook\Studying Engineering, Roadmap to Rewarding Career 4th Ed.pdf"
+[7:12:21 AM] Info: Creating folder "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Class 10"
+[7:12:21 AM] Info: Creating folder "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 0"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 0\GENG101HW00Sec54_S18.pdf"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 6 Feb 21st\Myers-Briggns_Information_1_Cited - Copy.pdf"
+[7:12:21 AM] Info: Overwriting file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 6 Feb 21st\Myers-Briggns_Information_1_Cited.pdf"
+[7:12:21 AM] Info: Creating folder "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 7 Mar 8th"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 7 Mar 8th\GENG101HW07Sec54_S18.pdf"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 7 Mar 8th\Myers-Briggns_Information_1_Cited.pdf"
+[7:12:21 AM] Info: Creating folder "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Syllabus"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Syllabus\GENG101 Scoring Rubrics Sec54_S18.pdf"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Syllabus\GENG101 Syllabus S18.pdf"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Syllabus\GENG101ScoringRubricsSec54_S18.pdf"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\Syllabus\GENG101Sec54Syllabus_S18_2.pdf"
+[7:12:21 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\
+                       E:\sync_[Shaughnessy] ECE 471 DSP\
+[7:12:21 AM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\errsol.pdf" to the recycle bin
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Classlist Hou 471.pdf"
+[7:12:21 AM] Info: Creating folder "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\Collection_of_Formulas.pdf"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\Complex Numbers.jpg"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\CT & DT LTI Properties in T, F, S, Z Domains, Stability.jpg"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\CT & DT Signal Properties.jpg"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\CT Fourier Transform in rad & hz.png"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\CT Fourier Transform Properties in rad & hz.jpg"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\Doc1.docx"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\dsp - Copy.pdf"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\dsp.pdf"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\DTFT & Inverse DTFT Formula.png"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\DTFT Common Transforms.jpg"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\Fourier Series Common Signals.jpg"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\Geometric Series.jpg"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\Laplace Transform Properties & ROC.jpg"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\Laplace Transform.png"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\Lecture 2_winter_2012_6tp.pdf"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\Sampling Theory Properties.jpg"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\Signals Trigonometry.jpg"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\Z-Transform Properties & ROC.jpg"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\Z-Transform.png"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\DSP Cheat Sheets\~WRL0003.tmp"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Homework\ECE471_HW_18Spring_5.pdf"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Labs\ECE471_Lab_18Spring_5.docx"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Labs\ECE471_Lab_18Spring_6.pdf"
+[7:12:21 AM] Info: Overwriting file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Labs\ecgca252.edf"
+[7:12:21 AM] Info: Overwriting file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Labs\edfread.m"
+[7:12:21 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Labs\raw_pitch.mat"
+[7:12:21 AM] Info: Overwriting file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Labs\Tutorial_fdatool.pdf"
+[7:12:21 AM] Info: Overwriting file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Project 1\ECE471_Project_1.pdf"
+[7:12:22 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 422\
+                       E:\sync_[Shaughnessy] ECE 422\
+[7:12:22 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Employment\
+                       E:\sync_[Shaughnessy] Employment\
+[7:12:22 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Fall\
+                       E:\sync_[Shaughnessy] SCSU 2016 Fall\
+[7:12:22 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Spring\
+                       E:\sync_[Shaughnessy] SCSU 2016 Spring\
+[7:12:22 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2017 Spring\
+                       E:\sync_[Shaughnessy] SCSU 2017 Spring\
+[7:12:22 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU Docs\
+                       E:\sync_[Shaughnessy] SCSU Docs\
+[7:12:22 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_KHK\
+                       E:\sync_KHK\
+[7:12:22 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_KHK\Social Party Payment Merchants Logos.docx"
+[7:12:22 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_Textbooks\
+                       E:\sync_Textbooks\
+[7:12:22 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_Vehicles\
+                       E:\sync_Vehicles\
+[7:12:22 AM] Info: Synchronization completed successfully
+
+
+__________________________________________________________________
+|2/26/2018 - BatchSamsung: Synchronization completed with warnings
+|
+|    Items processed: 144 (1.16 GB)
+|    Total time: 00:02:43
+|_________________________________________________________________
+
+[11:56:20 PM] Info: Starting comparison
+[11:56:37 PM] Warning: The recycle bin is not available for the following folders. Files will be deleted permanently instead:
+                       E:\sync_[Shaughnessy] ECE 471 DSP\
+[11:56:42 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Docs\
+                        E:\sync_[Shaughnessy] Docs\
+[11:56:42 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] TapSmart\
+                        E:\sync_[Shaughnessy] TapSmart\
+[11:56:43 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\
+                        E:\sync_[Shaughnessy] Engr Ethics\
+[11:56:43 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\
+                        E:\sync_[Shaughnessy] ECE 471 DSP\
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\comparison of different IIR filter design techniques in matl.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Fourier Transform - Example 01.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Fourier Transform - Example 02.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (1010) - Input, Out.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (110) - Introductio.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (210) - CT vs. DT.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (310) - Even and Od.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (410) - Conjugate S.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (510) - Periodic Si.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (610) - Simply-Defi.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (710) - Determinist.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (810) - Energy and .mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (910) - Energy and .mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Ever wonder how Bitcoin (and other cryptocurrencies) actuall.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Examples of IIR Filter Design.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Active Filter Stage Order.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Active vs. Passive.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Analog vs. Digital.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Chebyshev vs. Butterworth vs. Bessel-1.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Chebyshev vs. Butterworth vs. Bessel.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Multi Pole Filters with Real Poles.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Multi Pole Filters with Sallen-Key.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Q—The Quality Factor of a Filter.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Single Pole Filters with Op Amps.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Single Pole Filters.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Matlab Examples - Linear Combination of Unit Steps and Ramps.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Matlab Examples - The Ramp Function.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Matlab Examples - The Unit Step Function.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Music And Measure Theory.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Nyquist Sampling Problem 01.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Nyquist Sampling Problem 02.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Nyquist Sampling Problem 03.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Nyquist Sampling Problem 04.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Nyquist Sampling Problem 05.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Nyquist Sampling Problem 06.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Overview of FIR and IIR Filters.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Overview Xactware Webcasts.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 01 - Introduction (2).mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 01 - Introduction.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 01 - Introduction.webm"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 02 - Preliminaries.webm"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 04 - Convergence.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 05 - The Complex Plane.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 06 - Z-Transform Example #1.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 07 - Z-Transform Example #2.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 08 - Z-Transform Example #3.mp4"
+[11:56:43 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 10 - Region of Convergence Details.mp4"
+[11:56:44 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 11 - ROC of a Two-Sided Signal.mp4"
+[11:56:44 PM] Info: Deleting file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform Summary.mp4"
+[11:56:44 PM] Info: Moving folder "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\EE383 Discrete S&S Youtube Lectures[Adam Panagos]" to the recycle bin
+[11:56:44 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Just How do Macs and PCs Differ - Computerphile.mp4"
+[11:56:46 PM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Convolution Examples"
+[11:56:46 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Convolution Examples\Convolution Integral Example 01 - Convolution of Two Unit St.mp4"
+[11:56:46 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Convolution Examples\Convolution Integral Example 02 - Convolution of Two Polynom.mp4"
+[11:56:51 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Convolution Examples\Convolution Integral Example 03 - Convolution of Two Triangl.mp4"
+[11:56:51 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Convolution Examples\Convolution Integral Example 04 - Convolution in Matlab (2 T-1.mp4"
+[11:56:53 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Convolution Examples\Convolution Integral Example 05 - Convolution Of Unit Step W.mp4"
+[11:56:54 PM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\DTFT"
+[11:56:54 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\DTFT\Discrete-Time Signals and Systems Part 1 (1010) - Input, Out.mp4"
+[11:56:54 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\DTFT\Discrete-Time Signals and Systems Part 1 (110) - Introductio.mp4"
+[11:57:00 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\DTFT\Discrete-Time Signals and Systems Part 1 (210) - CT vs. DT.mp4"
+[11:57:02 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\DTFT\Discrete-Time Signals and Systems Part 1 (310) - Even and Od.mp4"
+[11:57:07 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\DTFT\Discrete-Time Signals and Systems Part 1 (410) - Conjugate S.mp4"
+[11:57:07 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\DTFT\Discrete-Time Signals and Systems Part 1 (510) - Periodic Si.mp4"
+[11:57:09 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\DTFT\Discrete-Time Signals and Systems Part 1 (610) - Simply-Defi.mp4"
+[11:57:09 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\DTFT\Discrete-Time Signals and Systems Part 1 (710) - Determinist.mp4"
+[11:57:23 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\DTFT\Discrete-Time Signals and Systems Part 1 (810) - Energy and .mp4"
+[11:57:23 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\DTFT\Discrete-Time Signals and Systems Part 1 (910) - Energy and .mp4"
+[11:57:23 PM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\DTFT Examples"
+[11:57:23 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\DTFT Examples\Discrete-Time Fourier Transform - Example 01.mp4"
+[11:57:23 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\DTFT Examples\Discrete-Time Fourier Transform - Example 02.mp4"
+[11:57:24 PM] Info: Creating folder "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\EE383 Discrete S&S Youtube Lectures[Adam Panagos]"
+[11:57:24 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\EE383 Discrete S&S Youtube Lectures[Adam Panagos]\Adam Panagos YouTube.URL"
+[11:57:24 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\EE383 Discrete S&S Youtube Lectures[Adam Panagos]\Chapter 1 Review.URL"
+[11:57:24 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\EE383 Discrete S&S Youtube Lectures[Adam Panagos]\Chapter 2 Sampling Signals.URL"
+[11:57:24 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\EE383 Discrete S&S Youtube Lectures[Adam Panagos]\Chapter 6 The Z -Transform.URL"
+[11:57:24 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\EE383 Discrete S&S Youtube Lectures[Adam Panagos]\Syllabus - EE383 Discrete S&S.URL"
+[11:57:24 PM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters"
+[11:57:24 PM] Info: Moving file 
+                    "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Butterworth Filter - 01 - Introduction.mp4" to 
+                    "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Butterworth Filter - 01 - Introduction.mp4"
+[11:57:24 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\comparison of different IIR filter design techniques in matl.mp4"
+[11:57:24 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Examples of IIR Filter Design.mp4"
+[11:57:29 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Filtering 101 Active Filter Stage Order.mp4"
+[11:57:31 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Filtering 101 Active vs. Passive.mp4"
+[11:57:32 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Filtering 101 Analog vs. Digital.mp4"
+[11:57:35 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Filtering 101 Chebyshev vs. Butterworth vs. Bessel-1.mp4"
+[11:57:37 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Filtering 101 Chebyshev vs. Butterworth vs. Bessel.mp4"
+[11:57:38 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Filtering 101 Multi Pole Filters with Real Poles.mp4"
+[11:57:40 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Filtering 101 Multi Pole Filters with Sallen-Key.mp4"
+[11:57:41 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Filtering 101 Q—The Quality Factor of a Filter.mp4"
+[11:57:54 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Filtering 101 Single Pole Filters with Op Amps.mp4"
+[11:57:56 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Filtering 101 Single Pole Filters.mp4"
+[11:57:59 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Overview of FIR and IIR Filters.mp4"
+[11:58:12 PM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Barry Van Veen"
+[11:58:12 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Barry Van Veen\IIR Filter Design Procedure.mp4"
+[11:58:14 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filters\Barry Van Veen\Overview of FIR and IIR Filters.mp4"
+[11:58:16 PM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Fourier Transform Examples"
+[11:58:16 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Fourier Transform Examples\Fourier Transform Example 01 - Right-Sided Decaying Exponent.mp4"
+[11:58:17 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Fourier Transform Examples\Fourier Transform Example 02 - Left-Sided Decaying Exponenti.mp4"
+[11:58:17 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Fourier Transform Examples\Fourier Transform Example 03 - Two-Sided Decaying Exponentia.mp4"
+[11:58:17 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Fourier Transform Examples\Fourier Transform Example 04 - Complex Exponential.mp4"
+[11:58:18 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Fourier Transform Examples\Fourier Transform Example 05 - Impulses and Constants.mp4"
+[11:58:19 PM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Other"
+[11:58:19 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Other\Ever wonder how Bitcoin (and other cryptocurrencies) actuall.mp4"
+[11:58:26 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Other\Matlab Examples - Linear Combination of Unit Steps and Ramps.mp4"
+[11:58:26 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Other\Matlab Examples - The Ramp Function.mp4"
+[11:58:27 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Other\Matlab Examples - The Unit Step Function.mp4"
+[11:58:27 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Other\Music And Measure Theory.mp4"
+[11:58:28 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Other\Overview Xactware Webcasts.mp4"
+[11:58:32 PM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Sampling"
+[11:58:32 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Sampling\Sampling Signals (1013) - Ideal Reconstruction.mp4"
+[11:58:33 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Sampling\Sampling Signals (113) - Introduction.mp4"
+[11:58:34 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Sampling\Sampling Signals (213) - Intuition.mp4"
+[11:58:39 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Sampling\Sampling Signals (313) - Fourier Transform of an Impulse Sam.mp4"
+[11:58:40 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Sampling\Sampling Signals (513) - Sampling a Sinusoid (Theory).mp4"
+[11:58:41 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Sampling\Sampling Signals (813) - The Sampling Theorem.mp4"
+[11:58:41 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Sampling\Sampling Signals (913) - Required Sampling Examples.mp4"
+[11:58:42 PM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Sampling Examples"
+[11:58:42 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Sampling Examples\Nyquist Sampling Problem 01.mp4"
+[11:58:42 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Sampling Examples\Nyquist Sampling Problem 02.mp4"
+[11:58:42 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Sampling Examples\Nyquist Sampling Problem 03.mp4"
+[11:58:43 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Sampling Examples\Nyquist Sampling Problem 04.mp4"
+[11:58:44 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Sampling Examples\Nyquist Sampling Problem 05.mp4"
+[11:58:45 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Sampling Examples\Nyquist Sampling Problem 06.mp4"
+[11:58:46 PM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)"
+[11:58:46 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 01 - Introduction.mp4"
+[11:58:46 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 02 - Preliminaries.mp4"
+[11:58:46 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 03 - Definition.mp4"
+[11:58:47 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 04 - Convergence.mp4"
+[11:58:48 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 05 - The Complex Plane.mp4"
+[11:58:48 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 06 - Z-Transform Example #1.mp4"
+[11:58:49 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 07 - Z-Transform Example #2.mp4"
+[11:58:49 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 08 - Z-Transform Example #3.mp4"
+[11:58:50 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 09 - Z-Transform Example Summary.mp4"
+[11:58:51 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 10 - Region of Convergence Details.mp4"
+[11:58:52 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 11 - ROC of a Two-Sided Signal.mp4"
+[11:58:52 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 12 - Properties Part 01.mp4"
+[11:58:53 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 13 - Properties Part 02.mp4"
+[11:58:53 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 14 - PoleZero Cancellation.mp4"
+[11:58:59 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 15 - Properties Example 01.mp4"
+[11:58:59 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 16 - Properties Example 02.mp4"
+[11:59:00 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 17 - Inversion Introduction.mp4"
+[11:59:01 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\The Z-Transform - 18 - Inversion by Partial Fraction Expansi.mp4"
+[11:59:02 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform (18)\Z-Transform Summary.mp4"
+[11:59:02 PM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Homework\Homework 1\hw1_matlab.m"
+[11:59:03 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 422\
+                        E:\sync_[Shaughnessy] ECE 422\
+[11:59:03 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Employment\
+                        E:\sync_[Shaughnessy] Employment\
+[11:59:03 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Fall\
+                        E:\sync_[Shaughnessy] SCSU 2016 Fall\
+[11:59:03 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Spring\
+                        E:\sync_[Shaughnessy] SCSU 2016 Spring\
+[11:59:03 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2017 Spring\
+                        E:\sync_[Shaughnessy] SCSU 2017 Spring\
+[11:59:03 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU Docs\
+                        E:\sync_[Shaughnessy] SCSU Docs\
+[11:59:03 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_KHK\
+                        E:\sync_KHK\
+[11:59:03 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_Textbooks\
+                        E:\sync_Textbooks\
+[11:59:03 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_Vehicles\
+                        E:\sync_Vehicles\
+[11:59:04 PM] Warning: Synchronization completed with warnings
+
+
+_________________________________________________________________
+|2/26/2018 - BatchSamsung: Synchronization completed successfully
+|
+|    Items processed: 59 (839 MB)
+|    Total time: 00:01:00
+|________________________________________________________________
+
+[3:39:01 AM] Info: Starting comparison
+[3:39:02 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Docs\
+                       E:\sync_[Shaughnessy] Docs\
+[3:39:02 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] TapSmart\
+                       E:\sync_[Shaughnessy] TapSmart\
+[3:39:02 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\
+                       E:\sync_[Shaughnessy] Engr Ethics\
+[3:39:02 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\
+                       E:\sync_[Shaughnessy] ECE 471 DSP\
+[3:39:02 AM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP"
+[3:39:02 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Butterworth Filter - 01 - Introduction.mp4"
+[3:39:02 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\comparison of different IIR filter design techniques in matl.mp4"
+[3:39:02 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Fourier Transform - Example 01.mp4"
+[3:39:04 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Fourier Transform - Example 02.mp4"
+[3:39:05 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (1010) - Input, Out.mp4"
+[3:39:05 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (110) - Introductio.mp4"
+[3:39:07 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (210) - CT vs. DT.mp4"
+[3:39:16 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (310) - Even and Od.mp4"
+[3:39:17 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (410) - Conjugate S.mp4"
+[3:39:18 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (510) - Periodic Si.mp4"
+[3:39:19 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (610) - Simply-Defi.mp4"
+[3:39:20 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (710) - Determinist.mp4"
+[3:39:20 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (810) - Energy and .mp4"
+[3:39:21 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Discrete-Time Signals and Systems Part 1 (910) - Energy and .mp4"
+[3:39:21 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Ever wonder how Bitcoin (and other cryptocurrencies) actuall.mp4"
+[3:39:25 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Examples of IIR Filter Design.mp4"
+[3:39:28 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Active Filter Stage Order.mp4"
+[3:39:31 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Active vs. Passive.mp4"
+[3:39:32 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Analog vs. Digital.mp4"
+[3:39:33 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Chebyshev vs. Butterworth vs. Bessel-1.mp4"
+[3:39:35 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Chebyshev vs. Butterworth vs. Bessel.mp4"
+[3:39:36 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Multi Pole Filters with Real Poles.mp4"
+[3:39:37 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Multi Pole Filters with Sallen-Key.mp4"
+[3:39:38 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Q—The Quality Factor of a Filter.mp4"
+[3:39:40 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Single Pole Filters with Op Amps.mp4"
+[3:39:41 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Filtering 101 Single Pole Filters.mp4"
+[3:39:42 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Matlab Examples - Linear Combination of Unit Steps and Ramps.mp4"
+[3:39:43 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Matlab Examples - The Ramp Function.mp4"
+[3:39:43 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Matlab Examples - The Unit Step Function.mp4"
+[3:39:43 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Music And Measure Theory.mp4"
+[3:39:44 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Nyquist Sampling Problem 01.mp4"
+[3:39:44 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Nyquist Sampling Problem 02.mp4"
+[3:39:45 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Nyquist Sampling Problem 03.mp4"
+[3:39:46 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Nyquist Sampling Problem 04.mp4"
+[3:39:48 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Nyquist Sampling Problem 05.mp4"
+[3:39:49 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Nyquist Sampling Problem 06.mp4"
+[3:39:50 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Overview of FIR and IIR Filters.mp4"
+[3:39:51 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Overview Xactware Webcasts.mp4"
+[3:39:53 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 01 - Introduction (2).mp4"
+[3:39:54 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 01 - Introduction.mp4"
+[3:39:54 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 01 - Introduction.webm"
+[3:39:54 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 02 - Preliminaries.webm"
+[3:39:54 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 04 - Convergence.mp4"
+[3:39:55 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 05 - The Complex Plane.mp4"
+[3:39:55 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 06 - Z-Transform Example #1.mp4"
+[3:39:56 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 07 - Z-Transform Example #2.mp4"
+[3:39:56 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 08 - Z-Transform Example #3.mp4"
+[3:39:56 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 10 - Region of Convergence Details.mp4"
+[3:39:58 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\The Z-Transform - 11 - ROC of a Two-Sided Signal.mp4"
+[3:39:59 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE Youtube DSP\Z-Transform Summary.mp4"
+[3:40:01 AM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\Homework 1"
+[3:40:01 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\Homework 1\HW 1 Ryan 471.docx"
+[3:40:01 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\Homework 1\Screenshot_1.png"
+[3:40:01 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\Homework 1\Screenshot_2.png"
+[3:40:01 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\Homework 1\Screenshot_3.png"
+[3:40:01 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\Homework 1\Screenshot_4.png"
+[3:40:01 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\Homework 1\Screenshot_5.png"
+[3:40:01 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\Homework 1\Screenshot_6.png"
+[3:40:01 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 422\
+                       E:\sync_[Shaughnessy] ECE 422\
+[3:40:01 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Employment\
+                       E:\sync_[Shaughnessy] Employment\
+[3:40:01 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Fall\
+                       E:\sync_[Shaughnessy] SCSU 2016 Fall\
+[3:40:01 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Spring\
+                       E:\sync_[Shaughnessy] SCSU 2016 Spring\
+[3:40:01 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2017 Spring\
+                       E:\sync_[Shaughnessy] SCSU 2017 Spring\
+[3:40:01 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU Docs\
+                       E:\sync_[Shaughnessy] SCSU Docs\
+[3:40:01 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_KHK\
+                       E:\sync_KHK\
+[3:40:01 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_Textbooks\
+                       E:\sync_Textbooks\
+[3:40:01 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_Vehicles\
+                       E:\sync_Vehicles\
+[3:40:01 AM] Info: Synchronization completed successfully
+
+
+_________________________________________________________________
+|2/25/2018 - BatchSamsung: Synchronization completed successfully
+|
+|    Items processed: 2 (2.91 MB)
+|    Total time: 00:00:05
+|________________________________________________________________
+
+[11:56:32 PM] Info: Starting comparison
+[11:56:37 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Docs\
+                        E:\sync_[Shaughnessy] Docs\
+[11:56:37 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] TapSmart\
+                        E:\sync_[Shaughnessy] TapSmart\
+[11:56:37 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\
+                        E:\sync_[Shaughnessy] Engr Ethics\
+[11:56:37 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\
+                        E:\sync_[Shaughnessy] ECE 471 DSP\
+[11:56:37 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\errsol.pdf"
+[11:56:37 PM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Intro Signal Processing [Orfanidis 2010] Solution Manual.pdf"
+[11:56:37 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 422\
+                        E:\sync_[Shaughnessy] ECE 422\
+[11:56:37 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Employment\
+                        E:\sync_[Shaughnessy] Employment\
+[11:56:37 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Fall\
+                        E:\sync_[Shaughnessy] SCSU 2016 Fall\
+[11:56:37 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Spring\
+                        E:\sync_[Shaughnessy] SCSU 2016 Spring\
+[11:56:37 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2017 Spring\
+                        E:\sync_[Shaughnessy] SCSU 2017 Spring\
+[11:56:37 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU Docs\
+                        E:\sync_[Shaughnessy] SCSU Docs\
+[11:56:37 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_KHK\
+                        E:\sync_KHK\
+[11:56:37 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_Textbooks\
+                        E:\sync_Textbooks\
+[11:56:37 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_Vehicles\
+                        E:\sync_Vehicles\
+[11:56:37 PM] Info: Synchronization completed successfully
+
+
+_________________________________________________________________
+|2/25/2018 - BatchSamsung: Synchronization completed successfully
+|
+|    Items processed: 3 (111 KB)
+|    Total time: 00:00:01
+|________________________________________________________________
+
+[10:05:12 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Docs\
+                        E:\sync_[Shaughnessy] Docs\
+[10:05:12 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] TapSmart\
+                        E:\sync_[Shaughnessy] TapSmart\
+[10:05:12 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\
+                        E:\sync_[Shaughnessy] Engr Ethics\
+[10:05:12 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\
+                        E:\sync_[Shaughnessy] ECE 471 DSP\
+[10:05:12 PM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 4\27845861_1515006011881450_1803564741_o.jpg" to the recycle bin
+[10:05:12 PM] Info: Moving file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 4\27906607_1515005898548128_946172179_o.jpg" to the recycle bin
+[10:05:12 PM] Info: Overwriting file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 4\27845638_1515081595207225_619933028_o.jpg"
+[10:05:12 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 422\
+                        E:\sync_[Shaughnessy] ECE 422\
+[10:05:12 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Employment\
+                        E:\sync_[Shaughnessy] Employment\
+[10:05:12 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Fall\
+                        E:\sync_[Shaughnessy] SCSU 2016 Fall\
+[10:05:13 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Spring\
+                        E:\sync_[Shaughnessy] SCSU 2016 Spring\
+[10:05:13 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2017 Spring\
+                        E:\sync_[Shaughnessy] SCSU 2017 Spring\
+[10:05:13 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU Docs\
+                        E:\sync_[Shaughnessy] SCSU Docs\
+[10:05:13 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_KHK\
+                        E:\sync_KHK\
+[10:05:13 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_Textbooks\
+                        E:\sync_Textbooks\
+[10:05:13 PM] Info: Synchronizing folder pair:
+                        C:\Sync_Samsung FlashDrive\sync_Vehicles\
+                        E:\sync_Vehicles\
+[10:05:13 PM] Info: Synchronization completed successfully
+
+
+__________________________________________________
+|2/25/2018 - BatchSamsung: Synchronization stopped
+|
+|    Items processed: 0
+|    Items remaining: 2 (0 bytes)
+|    Total time: 00:00:10
+|_________________________________________________
+
+[10:04:13 PM] Info: Starting comparison
+[10:04:18 PM] Warning: The following items have unresolved conflicts and will not be synchronized:
+                       "Homework\ong\HW 4\27845638_1515081595207225_619933028_o.jpg": Both sides have changed since last synchronization.
+[10:04:23 PM] Info: Switching to FreeFileSync's main window
+[10:04:24 PM] Error: Synchronization stopped
+
+
+___________________________________________________
+|2/24/2018: Synchronization completed with warnings
+|
+|    Items processed: 84 (325 MB)
+|    Total time: 00:01:00
+|__________________________________________________
+
+[2:32:51 AM] Warning: The recycle bin is not available for the following folders. Files will be deleted permanently instead:
+                      E:\sync_[Shaughnessy] ECE 422\
+                      E:\sync_[Shaughnessy] ECE 471 DSP\
+                      E:\sync_[Shaughnessy] Engr Ethics\
+[2:32:56 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Docs\
+                       E:\sync_[Shaughnessy] Docs\
+[2:32:56 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] TapSmart\
+                       E:\sync_[Shaughnessy] TapSmart\
+[2:32:56 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\
+                       E:\sync_[Shaughnessy] Engr Ethics\
+[2:32:56 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Chapter5.pptx"
+[2:32:57 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\EngEthics-Ch6 Personal Growth.pdf"
+[2:33:02 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\GENG101 Scoring Rubrics Sec54_S18.pdf"
+[2:33:02 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\GENG101 Syllabus S18.pdf"
+[2:33:02 AM] Info: Creating file "C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Engr Ethics\HW 5 Ryan.docx"
+[2:33:02 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Landis Book Chapter 2.URL"
+[2:33:02 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Landis Book PowerPoint Slides.URL"
+[2:33:03 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Landis Book Resources.URL"
+[2:33:03 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Landis Book TOC.pdf"
+[2:33:03 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Ryan Ethics HW 4.docx"
+[2:33:03 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Studying Engineering, Roadmap to Rewarding Career 4th Ed..pdf"
+[2:33:31 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Studying Engineering, Roadmap to Rewarding Career 4th Ed.pdf"
+[2:33:40 AM] Info: Creating folder "E:\sync_[Shaughnessy] Engr Ethics\Class 10 Personal Growth"
+[2:33:40 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Class 10 Personal Growth\kirschner_03_identifying_pitfalls_social_interaction_computer_supported.pdf"
+[2:33:40 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Class 10 Personal Growth\scismet.pdf"
+[2:33:40 AM] Info: Creating folder "E:\sync_[Shaughnessy] Engr Ethics\Class 11 Myers Griggs"
+[2:33:40 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Class 11 Myers Griggs\Myers-Briggns_Information_1_Cited.pdf"
+[2:33:40 AM] Info: Creating folder "E:\sync_[Shaughnessy] Engr Ethics\Class 12 Internships"
+[2:33:41 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Class 12 Internships\thecommondenominatorofsuccess-albertengray.pdf"
+[2:33:41 AM] Info: Creating folder "E:\sync_[Shaughnessy] Engr Ethics\Class 4 Keys to Success"
+[2:33:41 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Class 4 Keys to Success\ASEE_2012_Attributes_of_a_Global_Engineer.pdf"
+[2:33:41 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Class 4 Keys to Success\symonette.makeassessmentwork.dweck_.pdf"
+[2:33:42 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\Class 4 Keys to Success\thecommondenominatorofsuccess-albertengray.pdf"
+[2:33:42 AM] Info: Creating folder "E:\sync_[Shaughnessy] Engr Ethics\DONE"
+[2:33:42 AM] Info: Overwriting file "E:\sync_[Shaughnessy] Engr Ethics\HW 5 Feb 19th\HW 5 Ryan.docx"
+[2:33:43 AM] Info: Overwriting file "E:\sync_[Shaughnessy] Engr Ethics\HW 6 Feb 21st\Myers-Briggns_Information_1_Cited.pdf"
+[2:33:43 AM] Info: Creating file "E:\sync_[Shaughnessy] Engr Ethics\HW 6 Feb 21st\Screenshot_20180208205516.png"
+[2:33:43 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 471 DSP\
+                       E:\sync_[Shaughnessy] ECE 471 DSP\
+[2:33:43 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Fourier Transform Excellent Visual Desc.URL"
+[2:33:43 AM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\EE383 Discrete S&S Youtube Lectures[Adam Panagos]"
+[2:33:43 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE383 Discrete S&S Youtube Lectures[Adam Panagos]\Adam Panagos YouTube.URL"
+[2:33:43 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE383 Discrete S&S Youtube Lectures[Adam Panagos]\Chapter 1 Review.URL"
+[2:33:43 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE383 Discrete S&S Youtube Lectures[Adam Panagos]\Chapter 2 Sampling Signals.URL"
+[2:33:43 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE383 Discrete S&S Youtube Lectures[Adam Panagos]\Chapter 6 The Z -Transform.URL"
+[2:33:43 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\EE383 Discrete S&S Youtube Lectures[Adam Panagos]\Syllabus - EE383 Discrete S&S.URL"
+[2:33:43 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\27907239_1515081218540596_1741775986_o.jpg"
+[2:33:44 AM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\ong"
+[2:33:44 AM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 1"
+[2:33:44 AM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 2"
+[2:33:44 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 2\27845708_1515083745207010_1085817133_o.jpg"
+[2:33:44 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 2\27906692_1515083741873677_264909287_o.jpg"
+[2:33:44 AM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 3"
+[2:33:45 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 3\27836249_1515087415206643_450605645_o.jpg"
+[2:33:45 AM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 4"
+[2:33:45 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 4\27845638_1515081595207225_619933028_o.jpg"
+[2:33:45 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 4\27845861_1515006011881450_1803564741_o.jpg"
+[2:33:45 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 4\27901829_1515081371873914_369101097_o.jpg"
+[2:33:45 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 4\27906607_1515005898548128_946172179_o.jpg"
+[2:33:45 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 4\27907239_1515081218540596_1741775986_o.jpg"
+[2:33:45 AM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\Homework\ong\HW 5"
+[2:33:45 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Labs\Tutorial_fdatool.pdf"
+[2:33:45 AM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\Labs\Lab 5 EQ"
+[2:33:45 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Labs\Lab 5 EQ\ECE471_Lab_18Spring_5.docx"
+[2:33:45 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Labs\Lab 5 EQ\Ryan_Lab5.m"
+[2:33:45 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Labs\Lab 5 EQ\Ryan_Lab5.slx"
+[2:33:45 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Labs\Lab 5 EQ\Ryan_Lab5_Manual_Switches.slx"
+[2:33:46 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Labs\Lab 5 EQ\Ryan_Lab5_Slide_Switches.slx"
+[2:33:46 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Labs\Lab 5 EQ\Shaughnessy 471 Lab 5 Report.docx"
+[2:33:46 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Labs\Lab 5 EQ\speech_dft.mp3"
+[2:33:46 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Labs\Lab 5 EQ\speech_dft.wav"
+[2:33:46 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Labs\Lab 5 EQ\Toires__ Azif_Laile_ - _Namgya_l_Gruz_mix.mp3"
+[2:33:47 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\1.jpg"
+[2:33:48 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\10.jpg"
+[2:33:48 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\11.jpg"
+[2:33:48 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\12.jpg"
+[2:33:48 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\13.jpg"
+[2:33:48 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\14.jpg"
+[2:33:48 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\15.jpg"
+[2:33:48 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\16.jpg"
+[2:33:49 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\17.jpg"
+[2:33:49 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\18.jpg"
+[2:33:49 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\19.jpg"
+[2:33:49 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\2.jpg"
+[2:33:49 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\3.jpg"
+[2:33:49 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\4.jpg"
+[2:33:49 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\5.jpg"
+[2:33:49 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\6.jpg"
+[2:33:49 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\7.jpg"
+[2:33:49 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\8.jpg"
+[2:33:49 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\9.jpg"
+[2:33:49 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 471 DSP\Lectures\ECE471_18Spring_7.pdf"
+[2:33:50 AM] Info: Creating folder "E:\sync_[Shaughnessy] ECE 471 DSP\Project 1"
+[2:33:50 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Project 1\ECE471_Project_1.pdf"
+[2:33:50 AM] Info: Creating file "E:\sync_[Shaughnessy] ECE 471 DSP\Project 1\ECE471_report_format.pdf"
+[2:33:51 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] ECE 422\
+                       E:\sync_[Shaughnessy] ECE 422\
+[2:33:51 AM] Info: Overwriting file "E:\sync_[Shaughnessy] ECE 422\ECE 422 F16 Shaughnessy - Shortcut.lnk"
+[2:33:51 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Employment\
+                       E:\sync_[Shaughnessy] Employment\
+[2:33:51 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Fall\
+                       E:\sync_[Shaughnessy] SCSU 2016 Fall\
+[2:33:51 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2016 Spring\
+                       E:\sync_[Shaughnessy] SCSU 2016 Spring\
+[2:33:51 AM] Info: Synchronizing folder pair:
+                       C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] SCSU 2017 Spring\
+                       E:\sync_[Shaughnessy] SCSU 2017 Spring\
+[...]

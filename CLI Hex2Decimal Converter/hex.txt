@@ -1,0 +1,6 @@
+Command line program to convert to hex or int...
+Run from that folder 
+Then type hex and the int# to convert it to hex or 
+> hex 'some integer #'
+OR
+> hex 'some hex #'

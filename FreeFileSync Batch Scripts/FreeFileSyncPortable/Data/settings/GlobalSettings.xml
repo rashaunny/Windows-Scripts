@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FreeFileSync XmlFormat="1" XmlType="GLOBAL">
+    <Shared>
+        <Language Id="60"/>
+        <FailSafeFileCopy Enabled="true"/>
+        <CopyLockedFiles Enabled="true"/>
+        <CopyFilePermissions Enabled="false"/>
+        <AutomaticRetry Count="0" Delay="5"/>
+        <FileTimeTolerance Seconds="2"/>
+        <RunWithBackgroundPriority Enabled="false"/>
+        <LockDirectoriesDuringSync Enabled="true"/>
+        <VerifyCopiedFiles Enabled="false"/>
+        <LastSyncsLogSizeMax Bytes="100000"/>
+        <OptionalDialogs>
+            <WarnUnresolvedConflicts Enabled="true"/>
+            <WarnNotEnoughDiskSpace Enabled="true"/>
+            <WarnSignificantDifference Enabled="true"/>
+            <WarnRecycleBinNotAvailable Enabled="true"/>
+            <WarnInputFieldEmpty Enabled="true"/>
+            <WarnDatabaseError Enabled="true"/>
+            <WarnDependentFolders Enabled="true"/>
+            <WarnFolderPairRaceCondition Enabled="true"/>
+            <WarnDirectoryLockFailed Enabled="true"/>
+            <ConfirmSaveConfig Enabled="true"/>
+            <ConfirmStartSync Enabled="true"/>
+            <ConfirmExternalCommandMassInvoke Enabled="true"/>
+        </OptionalDialogs>
+    </Shared>
+    <Gui>
+        <MainDialog Height="600" Maximized="true" PosX="233" PosY="64" Width="900">
+            <ManualDeletion UseRecycler="true"/>
+            <CaseSensitiveSearch Enabled="false"/>
+            <FolderPairsVisible Max="6"/>
+            <OverviewPanel ShowPercentage="true" SortAscending="false" SortByColumn="Bytes">
+                <Columns>
+                    <Item Stretch="1" Type="Tree" Visible="true" Width="-120"/>
+                    <Item Stretch="0" Type="Count" Visible="true" Width="60"/>
+                    <Item Stretch="0" Type="Bytes" Visible="true" Width="60"/>
+                </Columns>
+            </OverviewPanel>
+            <MainGrid IconSize="Small" SashOffset="82" ShowIcons="true">
+                <ColumnsLeft>
+                    <Item Stretch="0" Type="Full" Visible="false" Width="250"/>
+                    <Item Stretch="0" Type="Base" Visible="false" Width="200"/>
+                    <Item Stretch="1" Type="Rel" Visible="true" Width="-336"/>
+                    <Item Stretch="0" Type="Name" Visible="true" Width="200"/>
+                    <Item Stretch="0" Type="Date" Visible="false" Width="112"/>
+                    <Item Stretch="0" Type="Size" Visible="true" Width="80"/>
+                    <Item Stretch="0" Type="Ext" Visible="false" Width="60"/>
+                </ColumnsLeft>
+                <ColumnsRight>
+                    <Item Stretch="0" Type="Full" Visible="false" Width="250"/>
+                    <Item Stretch="0" Type="Base" Visible="false" Width="200"/>
+                    <Item Stretch="1" Type="Rel" Visible="false" Width="-280"/>
+                    <Item Stretch="0" Type="Name" Visible="true" Width="200"/>
+                    <Item Stretch="0" Type="Date" Visible="false" Width="112"/>
+                    <Item Stretch="0" Type="Size" Visible="true" Width="80"/>
+                    <Item Stretch="0" Type="Ext" Visible="false" Width="60"/>
+                </ColumnsRight>
+            </MainGrid>
+            <DefaultView>
+                <Shared Conflict="true" Equal="false" Excluded="true"/>
+                <CategoryView Different="true" LeftNewer="true" LeftOnly="true" RightNewer="true" RightOnly="true"/>
+                <ActionView CreateLeft="true" CreateRight="true" DeleteLeft="true" DeleteRight="true" DoNothing="true" UpdateLeft="true" UpdateRight="true"/>
+            </DefaultView>
+            <Perspective3>layout2|name=PanelCenter;caption=;state=256;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=884;besth=163;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=PanelFolders;caption=Folder Pairs;state=2099708;dir=1;layer=2;row=0;pos=0;prop=100000;bestw=882;besth=45;minw=-1;minh=87;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=PanelFind;caption=Find;state=2099710;dir=3;layer=2;row=2;pos=0;prop=100000;bestw=378;besth=25;minw=200;minh=25;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=PanelView;caption=Select View;state=2099708;dir=3;layer=2;row=1;pos=0;prop=100000;bestw=884;besth=45;minw=82;minh=45;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=PanelOverview;caption=Overview;state=2099196;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=884;besth=162;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=PanelConfig;caption=Configuration;state=2099196;dir=4;layer=3;row=0;pos=1;prop=100000;bestw=270;besth=42;minw=144;minh=42;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=PanelTop;caption=Main Bar;state=2099708;dir=1;layer=4;row=1;pos=0;prop=100000;bestw=374;besth=58;minw=-1;minh=58;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=PanelProgress;caption=;state=2097662;dir=1;layer=4;row=2;pos=0;prop=100000;bestw=550;besth=77;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=265|dock_size(1,2,0)=191|dock_size(3,2,1)=45|dock_size(4,3,0)=302|dock_size(1,4,1)=58|</Perspective3>
+        </MainDialog>
+        <DefaultExclusionFilter>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLER\</Item>
+            <Item>\RECYCLED\</Item>
+            <Item>*\desktop.ini</Item>
+            <Item>*\thumbs.db</Item>
+        </DefaultExclusionFilter>
+        <LastUsedConfig>
+            <Item>K:\PortableApps\FreeFileSyncPortable\App\FreeFileSync\LastRun.ffs_gui</Item>
+        </LastUsedConfig>
+        <ConfigHistory MaxSize="30">
+            <Item>K:\PortableApps\FreeFileSyncPortable\App\FreeFileSync\LastRun.ffs_gui</Item>
+            <Item>K:\PortableApps\FreeFileSyncPortable\BatchSamsung.ffs_batch</Item>
+        </ConfigHistory>
+        <FolderHistoryLeft MaxSize="15">
+            <Item>C:\Sync_Samsung FlashDrive\sync_[Shaughnessy] Docs</Item>
+        </FolderHistoryLeft>
+        <FolderHistoryRight>
+            <Item>K:\sync_[Shaughnessy] Docs</Item>
+        </FolderHistoryRight>
+        <OnCompletionHistory MaxSize="8"/>
+        <ExternalApplications>
+            <Item>
+                <one>Show in Explorer</one>
+                <two>explorer /select, "%item_path%"</two>
+            </Item>
+            <Item>
+                <one>Open with default application</one>
+                <two>"%item_path%"</two>
+            </Item>
+        </ExternalApplications>
+        <LastOnlineCheck>1547633641</LastOnlineCheck>
+    </Gui>
+</FreeFileSync>
