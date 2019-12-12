@@ -1,0 +1,1 @@
+Dir /s > DirListing.txt
